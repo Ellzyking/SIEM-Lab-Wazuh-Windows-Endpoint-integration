@@ -28,12 +28,8 @@ In the future, I will map out the virtual network topology and configure the Hos
 ### 2. Outcome
 A fully operational Wazuh SIEM environment with an actively connected Windows 11 endpoint. The SIEM is successfully receiving baseline system logs and advanced Sysmon event data, ready for threat simulation and rule creation.
 
-**Visual Proof:**
-*(Add your screenshot of the Active Wazuh Dashboard here)*
 
-*(Add your screenshot of the PowerShell terminal showing "Ellzy" hostname and the "Valid key received" message here)*
-<h2>**Visual Proof:**</h2>
-
+### Visual Prove:
 <p align="center">
 Wazuh Dashboard:  <br/>
 <img src="https://i.imgur.com/K38F8bP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
