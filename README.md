@@ -32,32 +32,23 @@ A fully operational Wazuh SIEM environment with an actively connected Windows 11
 *(Add your screenshot of the Active Wazuh Dashboard here)*
 
 *(Add your screenshot of the PowerShell terminal showing "Ellzy" hostname and the "Valid key received" message here)*
-<h2>Program walk-through:</h2>
+<h2>**Visual Proof:**</h2>
 
 <p align="center">
-Launch the utility: <br/>
-Select the disk:  <br/>
-<img https://imgur.com/K38F8bP"/>
+Wazuh Dashboard:  <br/>
+<img src="https://i.imgur.com/K38F8bP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+PowerShell terminal :  <br/>
+<img src="https://i.imgur.com/uWc4a6g.png" alt="image" src="https://github.com/user-attachments/assets/22dcf477-5f3a-4d35-b19e-347244e4319f" />
+
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+THE Wazuh: <br/>
+<img src="https://i.imgur.com/lh4hiqH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
